@@ -65,5 +65,6 @@ A Passionate Software Engineer
 </div>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sharan-m-04&label=Profile%20views&color=009100&style=flat" alt="sharan-m-04" />
+  <img src="https://komarev.com/ghpvc/?username=suraj-vasishtha&label=Profile%20views&color=009100&style=flat" alt="suraj-vasishtha" />
 </p>
+

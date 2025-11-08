@@ -12,7 +12,7 @@ A Passionate Software Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-vasishtha](https://github.com/suraj-vasishtha)
 
-- 📫 How to reach me **msharan.hnp@gmail.com**
+- 📫 How to reach me **suraj32069@gmail.com**
 
 - 📄 My portfolio website <br/> [https://sharan-m-04.github.io/](https://sharan-m-04.github.io/)
 
